@@ -1,0 +1,14 @@
+.click-item{
+    opacity: .5;
+    margin: 10px 7.5%;
+    width: 10%;
+    border: solid white 5px;
+    box-shadow: 0 3px 6px rgba(0,0,0,.16), 0 3px 6px rgba(0,0,0,.23);
+}
+
+.click-item:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: .5s;
+    opacity: 1;
+}

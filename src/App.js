@@ -1,24 +1,21 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Navbar from './components/Navbar';
+import Jumbotron from './components/Jumbotron';
+import CardList from './components/CardList'
+
+let imageArray = ["buffalo-head.png", "camel-head.png", "double-fish.png", "eagle-head.png",
+  "eating-pelican.png", "elephant-head.png", "kangaroo.png", "koala.png",
+  "labrador-head.png", "snake-spiral.png", "snake-tongue.png", "spiked-dragon-head.png"]
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Navbar></Navbar>
+      <Jumbotron></Jumbotron>
+      <div className="container">
+          <CardList list={imageArray}></CardList>
+      </div>
     </div>
   );
 }
