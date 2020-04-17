@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/clicky-game/static/css/main.9ff22654.chunk.css",
+    "main.js": "/clicky-game/static/js/main.a72aa9fa.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.a72aa9fa.chunk.js.map",
+    "runtime-main.js": "/clicky-game/static/js/runtime-main.ec6097ba.js",
+    "runtime-main.js.map": "/clicky-game/static/js/runtime-main.ec6097ba.js.map",
+    "static/js/2.1f6cd406.chunk.js": "/clicky-game/static/js/2.1f6cd406.chunk.js",
+    "static/js/2.1f6cd406.chunk.js.map": "/clicky-game/static/js/2.1f6cd406.chunk.js.map",
+    "index.html": "/clicky-game/index.html",
+    "precache-manifest.54e4b8b012776040548512e5348bb120.js": "/clicky-game/precache-manifest.54e4b8b012776040548512e5348bb120.js",
+    "service-worker.js": "/clicky-game/service-worker.js",
+    "static/css/main.9ff22654.chunk.css.map": "/clicky-game/static/css/main.9ff22654.chunk.css.map",
+    "static/js/2.1f6cd406.chunk.js.LICENSE.txt": "/clicky-game/static/js/2.1f6cd406.chunk.js.LICENSE.txt",
+    "static/media/buffalo-head.png": "/clicky-game/static/media/buffalo-head.df56e6b6.png",
+    "static/media/camel-head.png": "/clicky-game/static/media/camel-head.4b355aaf.png",
+    "static/media/double-fish.png": "/clicky-game/static/media/double-fish.7a2edb81.png",
+    "static/media/eagle-head.png": "/clicky-game/static/media/eagle-head.6ef7ccd5.png",
+    "static/media/eating-pelican.png": "/clicky-game/static/media/eating-pelican.7513d3bf.png",
+    "static/media/elephant-head.png": "/clicky-game/static/media/elephant-head.38543fd0.png",
+    "static/media/kangaroo.png": "/clicky-game/static/media/kangaroo.7be7fcd0.png",
+    "static/media/koala.png": "/clicky-game/static/media/koala.dffdf4e4.png",
+    "static/media/labrador-head.png": "/clicky-game/static/media/labrador-head.4173d638.png",
+    "static/media/snake-spiral.png": "/clicky-game/static/media/snake-spiral.5517a7bf.png",
+    "static/media/snake-tongue.png": "/clicky-game/static/media/snake-tongue.62bb9a6e.png",
+    "static/media/spiked-dragon-head.png": "/clicky-game/static/media/spiked-dragon-head.c929d3d4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec6097ba.js",
+    "static/js/2.1f6cd406.chunk.js",
+    "static/css/main.9ff22654.chunk.css",
+    "static/js/main.a72aa9fa.chunk.js"
+  ]
+}
